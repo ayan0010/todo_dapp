@@ -1,0 +1,29 @@
+.todo__list{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  width:800px;
+  border:1px solid lightgray;
+  margin-bottom: 10px  !important;
+}
+body{
+  color:rgb(29, 8, 17)
+}
+h2{
+  color:rgb(104, 40, 10);
+}
+
+.button {
+  background-color:rgb(66, 17, 243);
+  border:none;
+  color:white;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline;
+  font-size:16px;
+  margin-top: 20%;
+  align-items: center;
+  padding: 15px 25px;
+
+}
